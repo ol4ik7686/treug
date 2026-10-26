@@ -1,0 +1,21 @@
+## Visual Studio
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.nupkg
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+## ReSharper
+_ReSharper*/
+*.ReSharper*
+
+## Rider
+.idea/
